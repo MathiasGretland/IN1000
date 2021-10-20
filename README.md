@@ -12,7 +12,7 @@ Hva lærer du?
 
 Etter å ha tatt IN1000:
 
-forstår du prinsippene for objektorientert programmering og kan benytte disse til å skrive enklere objektorienterte programmer
-kan du programmere i programmeringsspråket Python og kan bruke dette til å løse mindre problemer ved hjelp av valg, løkker, funksjoner, lister, klasser og objekter
-kan du skrive oversiktlige og lesbare programmer
-er du i stand til å sette deg inn i andres programmer, finne eventuelle feil i dem og modifisere dem
+* Forstår du prinsippene for objektorientert programmering og kan benytte disse til å skrive enklere objektorienterte programmer
+* Kan du programmere i programmeringsspråket Python og kan bruke dette til å løse mindre problemer ved hjelp av valg, løkker, funksjoner, lister, klasser og objekter
+* Kan du skrive oversiktlige og lesbare programmer
+* Er du i stand til å sette deg inn i andres programmer, finne eventuelle feil i dem og modifisere dem
