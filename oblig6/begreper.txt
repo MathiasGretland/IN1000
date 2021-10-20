@@ -1,0 +1,23 @@
+Oppgave:
+
+For hvert av begrepene i listen under, som alle er fra uke 7, oppgi et linjenummer i
+programmet der du finner et eksempel på begrepet. Hvis eksempelet går over flere
+linjer oppgir du start- og sluttlinje
+
+A. Klassedefinisjon
+B. Opprettelse av nytt objekt
+C. Definisjon av instansvariabel
+D. Definisjon av instansmetode
+E. Definisjon av konstruktør
+F. Kall på instansmetode
+G. Argumenter
+
+Mulige riktige svar på Spørsmålene:
+
+A. Linje 1
+B. Linje 19:20
+C. Linje 3:5
+D. Linje 7:9
+E. Linje 2:5
+F. Linje 25
+G. Linje 19,20,25,26

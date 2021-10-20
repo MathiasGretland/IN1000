@@ -1,0 +1,9 @@
+Batman, 45, Hann
+Spiderman, 30, Hann
+Hamtaro, 15, Hunn
+Hillary, 31, Hunn
+Sokrates, 38, Hann
+Napoleon, 35, Hann
+Minni mus, 24, Hunn
+Josefine, 20, Hunn
+Stella, 25, Hunn
