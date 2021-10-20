@@ -2,8 +2,7 @@
 
 Obligatoriske oppgaver i IN1000 – Introduksjon til objektorientert programmering, høst 2020
 
-Dette er en oversikt over obligatoriske oppgaver levert av meg i emnet IN1000, høst 2020 på UiO. I hver mappe vil det være en pdf med oppgavebeskrivelsen til oppgaven.
-
+Dette er en oversikt over obligatoriske oppgaver levert av meg i emnet IN1000, høst 2020 på UiO. 
 Kort om emnet:
 
 Emnet er en introduksjon til programmering og gir en god basis for videre studier i informatikk, men det er også egnet for deg som kun ønsker å forstå hva programmering er. Emnet forutsetter ingen forkunnskaper i programmering. Det gir en første innføring i Python og hvordan man utvikler algoritmer, inkludert bruk av lister, filer og kommunikasjon med bruker. Det blir lagt spesiell vekt på objektorientert programmering.
